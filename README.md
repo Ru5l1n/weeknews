@@ -2,18 +2,20 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
+    <link rel="stylesheet" href="css/stule.css">
    </head>
 <body>
     <header>
         <div align="center">
             <ul id="navbar">
-                <a href="сайт.html">Главная</a>
+                <a href="https://github.com/Ru5l1n/Main">Главная</a>
                 <a href="ньюс.html">Новости</a>
                 <a href="ивентс.html">События</a>
                 <a href="викньюс.html">Лор недели</a>
-                <a href="визитка.html">Визитка нашего сайта</a>
+                <a href="https://github.com/Ru5l1n/visit">Визитка нашего сайта</a>
             </ul>
-        </div></header>
+        </div>
+    </header>
     
     ELEMENTAL EVIL!
     ИСТОРИЯ ТАК ДАЛЕКО ЗАШЛА
