@@ -7,7 +7,7 @@
     <header>
         <div align="center">
             <ul id="navbar">
-                <a href="сайт.html">Разнообразие</a>
+                <a href="сайт.html">Главная</a>
                 <a href="ньюс.html">Новости</a>
                 <a href="ивентс.html">События</a>
                 <a href="викньюс.html">Лор недели</a>
